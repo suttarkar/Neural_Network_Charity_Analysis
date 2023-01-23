@@ -19,13 +19,13 @@ What variable(s) are neither targets nor features, and should be removed from th
 ### Compiling, Training, and Evaluating the Model
 
 How many neurons, layers, and activation functions did you select for your neural network model, and why?
-I used 75 neurons on the first layer and 25 neurons on the second layer. The activation functions used for both were relu. I used this amount of nearons because 
+I used 75 neurons on the first layer and 25 neurons on the second layer. The activation functions used for both were relu. I used this amount of nearons because I used trial and error to find a good balance.
 
 Were you able to achieve the target model performance?
 No, I was unable to meet 75%. The closest i was able to go was 73%
 
 What steps did you take to try and increase model performance?
-
+At first, I tried to increase the ampunt of neurons. After that I tried to decrease the number of neurons. Last, I tried to get rid of the outliers by getting rid of the 99th percentile and the 1st percentile(this ended up having the worst accuracy).
 
 ## Summary
 
