@@ -1,7 +1,7 @@
 # Neural Network Charity Analysis
 
 ## Purpose
-Building a machine learning model that helps Alphabet Soup predict whether applicants will be successful if given a grant.
+Building a deep learning model that helps Alphabet Soup predict whether applicants will be successful if given a grant.
 
 ## Results
 
