@@ -28,5 +28,5 @@ What steps did you take to try and increase model performance?
 At first, I tried to increase the ampunt of neurons. After that I tried to decrease the number of neurons. Last, I tried to get rid of the outliers by getting rid of the 99th percentile and the 1st percentile(this ended up having the worst accuracy).
 
 ## Summary
-
+In the end, I was unable to pass 75% accuracy. In my attempts I focused more on the amount of neurons, and there was not much affect. If I were to focus on preparing the data even more for the model, the accuracy will have a much better chance of increasing.
 
